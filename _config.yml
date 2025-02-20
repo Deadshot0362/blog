@@ -1,0 +1,5 @@
+title: My TOI Blog
+description: Automated blog from Times of India RSS
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
